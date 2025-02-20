@@ -1,0 +1,4 @@
+1.	Bandingkan aplikasi CRUD barang sebelum dan sesudah modul ini. Mana yang menurut kamu lebih mudah dipahami? Beri alasan minimal 50 kata.
+Push pekerjaan kalian ke repo baru GitHub Classroom dengan pesan commit terakhir ‘selesai modul 26’.
+Jawaban:
+1. Aplikasi CRUD barang sebelum modul ini lebih sulit di pahami karena masih menggunakan fungsi - fungsi yang tidak jelas dan tidak ada penjelasannya . sedangkan aplikasi CRUD barang setelah ini mudah di pahami karen code nya yang jelas dan mudah di baca dan tidak menumpuk seperti sebeluumnya jadi saya lebih suka menggunkan crud barang yang sekarang 
